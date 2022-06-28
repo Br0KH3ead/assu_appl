@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127801789249",
+    "project_id": "assurance-application-project",
+    "storage_bucket": "assurance-application-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127801789249:android:7a312ff720492b41016fc0",
+        "android_client_info": {
+          "package_name": "com.example.assu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127801789249-n1l817iqn9o8negoqqsot3e33b9s2ivt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFiiYGSml2B5uyytR0CSKV6RxAnHAfS8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127801789249-n1l817iqn9o8negoqqsot3e33b9s2ivt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
